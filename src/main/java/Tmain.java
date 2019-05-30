@@ -5,4 +5,7 @@ public class Tmain {
     public static void sayHello(String name) {
         System.out.print("hello " + name);
     }
+    public static void sayHi(String name) {
+        System.out.print("hi " + name);
+    }
 }
