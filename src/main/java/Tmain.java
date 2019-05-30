@@ -3,6 +3,6 @@ public class Tmain {
         System.out.print("hello world");
     }
     public static void sayHello(String name) {
-        System.out.print(name);
+        System.out.print("hello " + name);
     }
 }
